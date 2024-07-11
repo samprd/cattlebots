@@ -2,6 +2,8 @@
 
 Cattlebots is a turn-based command line game. You battle it out with the enemy cow, and you can configure settings to spice up the gameplay!
 
+⚠️ **NOTE: This project is now archived and is not being developed.**
+
 ## ❓ How To Play
 
 #### 🚀 Installation
